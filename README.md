@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=HELLO,+My+name+is+Gabriel+Borralho;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29&color=87CEEB)](https://git.io/typing-svg)
 
 ### Main skills: 
-![Python](https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-87CEEB?style=for-the-badge&logo=sql&labelColor=e47b37)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Social media: 
 <a href="https://wa.me/5598981672882" target="_blank" rel="noopener noreferrer">
