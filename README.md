@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Olá,+seja+bem-vindo!;Meu+nome+é+Gabriel+Borralho.;Tenho+26+anos+e+sou+Data+Scientist+%29&color=87CEEB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Olá,+seja+bem-vindo!;Meu+nome+é+Gabriel+Borralho.;Tenho+26+anos+e+sou+Data+Scientist+:%29&color=87CEEB)](https://git.io/typing-svg)
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
